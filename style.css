@@ -2,3 +2,8 @@
     background-color:bisque;
     color: burlywood;
 }
+
+.main-wrapper {
+    width: 100%;
+    font-size: 20px;
+} 
